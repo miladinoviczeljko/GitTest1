@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -13,7 +13,7 @@ namespace SimpleWebApi.Controllers
         [Route("ping")]
         public IActionResult Ping()
         {
-            return Ok("pong");
+            return Ok("pongChanged");
         }
     }
 }
