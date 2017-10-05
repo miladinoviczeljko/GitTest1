@@ -14,6 +14,7 @@ namespace SimpleWebApi.Controllers
         public IActionResult Ping()
         {
             // Change in Visual studio
+            // Change in feature 1 branch
             return Ok("pongChanged");
         }
     }
