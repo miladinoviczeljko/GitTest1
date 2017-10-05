@@ -13,6 +13,8 @@ namespace ConsoleApp1
         {
             // Code was edited in GitHub
             // Code was added in VS
+
+            // Code to call Feature1
         }
     }
 }
